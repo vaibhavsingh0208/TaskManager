@@ -1,0 +1,23 @@
+{
+  "name": "TaskManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavsingh0208/TaskManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavsingh0208/TaskManager/issues"
+  },
+  "homepage": "https://github.com/vaibhavsingh0208/TaskManager#readme",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
